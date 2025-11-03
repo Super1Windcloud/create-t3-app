@@ -1,0 +1,7 @@
+{
+  "name": "test-commit",
+  "version": "1.0.0",
+  "scripts": {
+    "test-commit": "echo 'feat: this is a test commit' | npx commitlint"
+  }
+}

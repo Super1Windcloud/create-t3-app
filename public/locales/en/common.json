@@ -1,0 +1,15 @@
+{
+  "welcome": "Welcome",
+  "description": "This is a sample translation file",
+  "greeting": "Hello, {{name}}!",
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "buttons": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save"
+  }
+}

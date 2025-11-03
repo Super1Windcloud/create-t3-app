@@ -1,0 +1,15 @@
+{
+  "welcome": "Willkommen",
+  "description": "Dies ist eine Beispiel-Übersetzungsdatei",
+  "greeting": "Hallo, {{name}}!",
+  "navigation": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "buttons": {
+    "submit": "Senden",
+    "cancel": "Abbrechen",
+    "save": "Speichern"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "welcome": "Bienvenido",
+  "description": "Este es un archivo de traducción de ejemplo",
+  "greeting": "¡Hola, {{name}}!",
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "buttons": {
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Guardar"
+  }
+}

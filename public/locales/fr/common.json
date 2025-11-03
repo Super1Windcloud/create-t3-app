@@ -1,0 +1,15 @@
+{
+  "welcome": "Bienvenue",
+  "description": "Ceci est un fichier de traduction d'exemple",
+  "greeting": "Bonjour, {{name}} !",
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "buttons": {
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Enregistrer"
+  }
+}
